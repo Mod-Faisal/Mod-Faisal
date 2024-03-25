@@ -1,7 +1,41 @@
-### Hi there 👋
+<h1>Hi, I'm Faisal! <br/><a href="https://github.com/mfaisal">Programmer</a>, <a href="https://www.linkedin.com/in/mfaisal/"> Network Engineer</a>, <a href="https://www.youtube.com/c/mfaisal">Not yet YouTuber</a></h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Active Directory</b>
+  - [Active Directory Homelab](https://github.com/mfaisal/Algorithms-Practice)
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/mfaisal/Sentinel-Lab)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/mfaisal/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 Certifications:</h2>
+
+- <b>CCNA</b>
+  - [CCNA](https://github.com/mfaisal/Algorithms-Practice)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="mfaisal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mfaisal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mfaisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mfaisal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/mfaisal
+[youtube]: https://www.youtube.com/c/mfaisal
+[instagram]: https://www.instagram.com/mfaisal/
+[linkedin]: https://linkedin.com/in/mfaisal
 
 <!--
-**Mod-Faisal/Mod-Faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mfaisal/mfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
