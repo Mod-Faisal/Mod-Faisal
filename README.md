@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Active Directory</b>
+- <b>Disk Sanitization</b>
   - [Active Directory Homelab](https://github.com/Mod-Faisal/DiskSanitization)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/mfaisal/Sentinel-Lab)
